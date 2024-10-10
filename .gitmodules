@@ -1,0 +1,9 @@
+[submodule "program-1-fibonacci-and-selection-sort-Aeyu17"]
+	path = program-1-fibonacci-and-selection-sort-Aeyu17
+	url = git@github.com:CS317-FA24/program-1-fibonacci-and-selection-sort-Aeyu17.git
+[submodule "program-2-dfs-and-bfs-Aeyu17"]
+	path = program-2-dfs-and-bfs-Aeyu17
+	url = git@github.com:CS317-FA24/program-2-dfs-and-bfs-Aeyu17.git
+[submodule "program-3-binary-search-and-mergesort-Aeyu17"]
+	path = program-3-binary-search-and-mergesort-Aeyu17
+	url = git@github.com:CS317-FA24/program-3-binary-search-and-mergesort-Aeyu17.git
